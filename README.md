@@ -140,6 +140,8 @@ drowsiness/alert
 # Demonstration
 
 ### Eyes Open
+![Uploading drowsiness_detected.jpeg…]()
+<img width="1582" height="797" alt="eyes_opened" src="https://github.com/user-attachments/assets/c9051b6d-4603-4893-9713-339ad9d63e66" />
 
 ![Eyes Open](screenshots/eyes_open.png)
 
