@@ -79,7 +79,7 @@ Drowsiness-Detection-MQTT
 Create Virtual Environment
 
 ```bash
-python -m venv venv
+python -3.10 -m venv venv
 ```
 
 Activate
@@ -179,11 +179,3 @@ drowsiness/alert
 - AI-based Fatigue Prediction
 
 ---
-
-## Author
-
-Sreehari C Nair
-
-B.Tech Computer Science & Engineering
-
-College of Engineering Thalassery
