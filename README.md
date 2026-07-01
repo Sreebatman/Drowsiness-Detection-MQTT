@@ -140,34 +140,31 @@ drowsiness/alert
 # Demonstration
 
 ### Eyes Open
-![Uploading drowsiness_detected.jpeg…]()
+
 <img width="1582" height="797" alt="eyes_opened" src="https://github.com/user-attachments/assets/c9051b6d-4603-4893-9713-339ad9d63e66" />
-
-![Eyes Open](screenshots/eyes_open.png)
-
 ---
 
 ### Drowsiness Detected
 
-![Drowsiness](screenshots/drowsiness_detected.png)
+<img width="1423" height="827" alt="drowsiness_detected" src="https://github.com/user-attachments/assets/fcbe9c21-1de4-4bf9-9af2-2cbe38121fd0" />
 
 ---
 
 ### MQTT Alert Received
 
-![MQTT](screenshots/mqtt_dashboard.jpg)
+<img width="738" height="1600" alt="mqtt_dashboard" src="https://github.com/user-attachments/assets/81fbb99f-c77e-424a-8d3a-e5af90eea9df" />
 
 ---
 
 ### Motor Running
 
-![Motor ON](screenshots/motor_on.jpg)
+<img width="899" height="1599" alt="motor_on" src="https://github.com/user-attachments/assets/4aba35e2-6a2b-4b9f-8454-74c69d24967f" />
 
 ---
 
 ### Motor Stopped
 
-![Motor OFF](screenshots/motor_off.jpg)
+<img width="1200" height="1600" alt="motor_off" src="https://github.com/user-attachments/assets/5bb51b7b-564a-4615-865e-f77526668b5a" />
 
 ---
 
